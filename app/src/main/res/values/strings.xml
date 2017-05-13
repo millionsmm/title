@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">title</string>
+    <string name="title_activity_setting">设置</string>
+    <string name="net_mode">网络模式</string>
+    <string name="update_wifi">Wifi下自动更新</string>
+    <string name="account_binding">账号和绑定设置</string>
+    <string name="message_personal">消息和隐私设置</string>
+    <string name="help_feedback">帮助与反馈</string>
+    <string name="about">关于读书笔记</string>
+    <string name="update_operate">手动检查更新</string>
+    <string name="version">版本</string>
+    <string name="link">协议链接</string>
+    <string name="bind_phone">注册</string>
+    <string name="yanzhengma">免费获取短信激活码</string>
+    <string name="shoujihaozhuce">手机号注册</string>
+    <string name="qingshurushoujihaoma">请输入手机号码</string>
+    <string name="shoujihao">手机号：</string>
+</resources>
