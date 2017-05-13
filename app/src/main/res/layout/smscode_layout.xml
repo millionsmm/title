@@ -7,11 +7,11 @@
         android:layout_height="wrap_content">
         <TableRow
             android:gravity="center">
-        <TextView
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:text="@string/shoujihaozhuce"
-            android:textSize="20sp"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/shoujihaozhuce"
+                android:textSize="20sp"/>
         </TableRow>
     </TableLayout>
     <TableLayout
